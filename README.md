@@ -4,7 +4,7 @@ title: Install Sui With Docker
 
 
 ## Set up
-# 根据以下步骤构建包含sui开发环境的Docker容器，前提是需要安装docker以及ssh
+根据以下步骤构建包含sui开发环境的Docker容器，前提是需要安装docker以及ssh
 
 * build image
 * start docker container
