@@ -2,7 +2,6 @@ FROM ubuntu:20.04
 
 LABEL MAINTAINER="poemiao.eth@gmail.com"
 
-ARG TZ=Asia/Shanghai
 ARG USER=root
 ARG PASSW=root
 
